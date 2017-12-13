@@ -1,0 +1,8 @@
+.idea
+.classpath
+.project
+*.jar
+*.iml
+*.zip
+.cvsignore
+.settings

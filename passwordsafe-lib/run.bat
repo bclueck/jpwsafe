@@ -1,0 +1,1 @@
+java -cp lib/bcprov-jdk15on.jar;lib/commons-logging.jar;target/PasswordSafe-lib-0.9.0-SNAPSHOT.jar org.pwsafe.lib.Main file password

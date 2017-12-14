@@ -61,6 +61,7 @@
             <index>true</index>
             <manifest>
               <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+              <mainClass>org.pwsafe.lib.Main</mainClass>
             </manifest>
           </archive>
         </configuration>

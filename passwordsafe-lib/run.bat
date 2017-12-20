@@ -1,1 +1,1 @@
-java -cp lib/bcprov-jdk15on.jar;lib/commons-logging.jar;target/PasswordSafe-lib-0.9.0-SNAPSHOT.jar org.pwsafe.lib.Main "C:\Users\brianlueck\Documents\My Safes\test1.psafe3" "password"
+java -cp lib/bcprov-jdk15on.jar;lib/commons-logging.jar;target/PasswordSafe-lib-0.9.0-SNAPSHOT.jar org.pwsafe.lib.Main "C:\Users\brianlueck\Documents\My Safes\backup.psafe3" %1 "C:\Users\brianlueck\Documents\My Safes\updated.psafe3" %2
